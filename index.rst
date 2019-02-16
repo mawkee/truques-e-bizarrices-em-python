@@ -18,3 +18,4 @@ Truques e Bizarrices em Python!
    gotchas/unbalanced-strings
    tricks/string-concat
    gotchas/lazy-generator
+   tricks/for-try-else
