@@ -6,8 +6,8 @@ Dicionários em Python podem fazer unpacking em um segundo dicionário
 ::
 
     >>> def funcionezita(pessoas=[]):
-    >>>     pessoas.append("Mawkee")
-    >>>     return pessoas
+    ...     pessoas.append("Mawkee")
+    ...     return pessoas
 
     >>> funcionezita()
     ['Mawkee']
@@ -31,7 +31,7 @@ Dicionários em Python podem fazer unpacking em um segundo dicionário
 
     # Use sempre None para isso
     >>> def funcionezita(pessoas=None):
-    >>>     if not pessoas:
-    >>>         pessoas = []
-    >>>     pessoas.append("Mawkee")
-    >>>     return pessoas
+    ...     if not pessoas:
+    ...         pessoas = []
+    ...     pessoas.append("Mawkee")
+    ...     return pessoas

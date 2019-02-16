@@ -19,3 +19,4 @@ Truques e Bizarrices em Python!
    tricks/string-concat
    gotchas/lazy-generator
    tricks/for-try-else
+   gotchas/id-mem
