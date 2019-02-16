@@ -20,3 +20,8 @@ Truques e Bizarrices em Python!
    gotchas/lazy-generator
    tricks/for-try-else
    gotchas/id-mem
+   tricks/sort-stability
+   gotchas/class-name-resolution
+   gotchas/false-time
+   tricks/batteries-included
+   gotchas/weirdness-overhaul

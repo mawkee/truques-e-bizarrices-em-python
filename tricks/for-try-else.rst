@@ -14,6 +14,8 @@ No For, o else é executado quando não houver um `break`
     ...     else:
     ...         print("É primo")
 
+(O `while` também permite o uso de `else` de forma idêntica)
+
 
 No Try, o else é executado quando não houver uma exception
 ==========================================================
