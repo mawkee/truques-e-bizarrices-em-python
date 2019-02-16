@@ -17,4 +17,4 @@ Truques e Bizarrices em Python!
    tricks/and-or
    gotchas/unbalanced-strings
    tricks/string-concat
-   
+   gotchas/lazy-generator

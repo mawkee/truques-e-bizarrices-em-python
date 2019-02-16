@@ -11,3 +11,6 @@ Truque - É possível concatenar strings implicitamente
     ... "Just "
     ... "Python!")
     'This is Just Python!'
+
+
+Pode ser muito útil quando sua linha estiver com mais de 138 caracteres...
